@@ -19,5 +19,8 @@ $lang['Everywhere'] = 'Everywhere';
 $lang['New color'] = 'New color';
 $lang['You must fill all fields (name and color)'] = 'You must fill all fields (name and color)';
 $lang['Go to <a href="%s">plugin page</a> to edit colors'] = 'Go to <a href="%s">plugin page</a> to edit colors';
-
+$lang['Couleur'] = 'Couleur';
+$lang['Go to <a href="%s">plugin page</a> to edit colors'] = 'Go to <a href="%s">plugin page</a> to edit colors';
+$lang['Créer'] = 'Créer';
+$lang['Remove color'] = 'Remove color';
 ?>
